@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Countdown logic
-const countDownDate = new Date("March 20, 2024 00:00:00").getTime();
+const countDownDate = new Date("March 20, 2025 00:00:00").getTime();
 
 const x = setInterval(function () {
     const now = new Date().getTime();
